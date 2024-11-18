@@ -25,3 +25,20 @@ body {
     text-wrap: balance;
   }
 }
+
+/* Example additional styles in global.css */
+button {
+  background-color: #000000;
+  color: white;
+  padding: 10px 20px;
+  border-color:#ffffff;
+  border-radius: 10px;
+  border-width: 1px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #929292;
+}
+
